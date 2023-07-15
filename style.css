@@ -9,8 +9,8 @@ body {
   align-items: center;
   justify-content: center;
 
-  background-size: 1000px;
-  background-image: url("https://www.psdgraphics.com/wp-content/uploads/2022/01/white-math-paper-texture.jpg");
+  background-size: 1300px;
+  background-image: url("./images/bg.jpeg");
   background-position: center center;
 }
 
@@ -69,5 +69,5 @@ p {
   opacity: 0.75;
   user-select: none;
   
-  // filter: drop-shadow(2px 1.5px 1px rgba(0,0,105,0.9));
+   filter: drop-shadow(2px 1.5px 1px rgba(0,0,105,0.9));
 }
